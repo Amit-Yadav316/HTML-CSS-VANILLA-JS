@@ -1,2 +1,2 @@
 This is a project for learning purpose for full use of html,css,js.
-![Screenshot](https://user-images.githubusercontent.com/12345678/filename.png)
+![Screenshot 2025-06-12 235341](https://github.com/user-attachments/assets/1353565e-880c-4d9b-b292-32bfbaa75e91)
